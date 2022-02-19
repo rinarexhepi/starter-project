@@ -1,0 +1,140 @@
+.navbar {
+  width: 100%;
+  background-color: #f6fffd;
+  overflow: auto;
+  padding: 20px;
+}
+
+
+.navbar a {
+  float: center;
+  text-align: center;
+  padding: 12px;
+  color: #07ad90;
+  text-decoration: none;
+  font-size: 17px;
+  padding-right: 200x;
+}
+
+
+.navbar a:hover {
+  background-color: #f6fffd;
+}
+
+ 
+  .active {
+    background-color: #f6fffd;
+  }
+
+  * {box-sizing:border-box}
+
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+.hero-image {
+
+background-image: linear-gradient(rgb(252, 252, 252), rgb(255, 255, 255)), url("foto1.jpg");
+
+
+height: 65%;
+
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+
+.hero-text {
+text-align: center;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6fffd;
+  padding: 20px;
+  font-family: Arial;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(204, 204, 204)
+  color: white;
+  text-align: center;
+}
