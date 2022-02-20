@@ -2,7 +2,7 @@
 <html lang="en">
   <link href="index.css" rel="stylesheet" type="text/css">
 <head>
-<title>Page Title</title>
+<title>Welcome</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -11,7 +11,7 @@
 </head>
 <body>
 
-  <link rel="stylesheet" href="file:///C:/Users/wottexx/Desktop/projektioi/index.html#">
+  <link rel="stylesheet" href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti">
   
   <div class="navbar">
     <a href="file:///C:/Users/wottexx/Desktop/fazaepar/index.html#">Home</a>

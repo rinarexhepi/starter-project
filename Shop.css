@@ -1,6 +1,6 @@
 .navbar {
   width: 100%;
-  background-color: #f6fffd;
+  background-color: #3a6e62;
   overflow: auto;
 }
 
@@ -9,7 +9,7 @@
   float: left;
   text-align: center;
   padding: 12px;
-  color: white;
+  color: rgb(95, 193, 170);
   text-decoration: none;
   font-size: 17px;
 }
@@ -20,7 +20,7 @@
 }
 
 .active {
-  background-color: #ffffff88;
+  background-color: #39675c88;
 }
 
 * {box-sizing:border-box}
@@ -39,7 +39,7 @@ height: 100%;
 
 .hero-image {
 
-background-image: linear-gradient(rgb(252, 252, 252), rgb(255, 255, 255)), url("foto1.jpg");
+background-image: linear-gradient(rgb(112, 187, 182), rgb(112, 187, 182)), url("foto1.jpg");
 
 
 height: 65%;

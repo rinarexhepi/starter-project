@@ -2,7 +2,7 @@
 <html lang="en">
   <link href="index.css" rel="stylesheet" type="text/css">
 <head>
-<title>Page Title</title>
+<title>Our products</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -11,12 +11,12 @@
 </head>
 <body>
 
-  <link rel="stylesheet" href="file:///C:/Users/wottexx/Desktop/projektioi/index.html#">
+  <link rel="stylesheet" href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti">
   
   <div class="navbar">
-    <a href="file:///C:/Users/wottexx/Desktop/fazaepar/index.html#">Home</a>
-        <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Contact.html">Contact</a>
-        <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Shop.html">Shop</a>
+    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
+        <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
+        <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
   </div>
 
   <div class="hero-image">

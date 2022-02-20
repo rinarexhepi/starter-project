@@ -2,12 +2,12 @@
 <html lang="en">
 
     <div class="navbar">
-        <a href="file:///C:/Users/wottexx/Desktop/fazaepar/index.html#">Home</a>
-        <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Contact.html">Contact</a>
-        <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Shop.html">Shop</a>
+        <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
+        <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
+        <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
       </div>
     
-  <link href="contact.css" rel="stylesheet" type="text/css">
+  <link href="Login.css" rel="stylesheet" type="text/css">
   <ul class="nav">
     <li onclick="showLogin()">Login</li>
     <li onclick="showSignup()">Sign up</li>
