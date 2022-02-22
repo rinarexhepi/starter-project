@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link href="index.css" rel="stylesheet" type="text/css">
+  <link href="css/index.css" rel="stylesheet" type="text/css">
 <head>
-<title>Welcome</title>
+<title>The Lucky Shop</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
 
 </head>
 <body>
@@ -14,85 +12,64 @@
   <link rel="stylesheet" href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti">
   
   <div class="navbar">
-    <a href="file:///C:/Users/wottexx/Desktop/fazaepar/index.html#">Home</a>
-    <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Contact.html">Contact</a>
-    <a href="file:///C:/Users/wottexx/Desktop/fazaepar/Shop.html">Shop</a>
+    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
+    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
+    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
   </div>
-
-  <div class="hero-image">
-    <div class="hero-text">
-      <img src="images/FOTO1.png" alt="">
-      <h1>Welcome</h1>
-      <p>SHOP WITH US</p>
-      <button class="button">SHOP</button>
-      <style>
-        
-        .button {
-  background-color: #ddd;
-  border: none;
-  color: black;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 16px;
-}
-
-.button:hover {
-  background-color: #f1f1f1;
-}
-      </style>
-    </div>
+ <div class="top">
+  <div class="image">
+    <h1>The Lucky Shop</h1>
+    <h2>Welcome</h2>
+      <img class="main-image" src="images/main.jpg" alt="main-image">
   </div>
+</div>
+
   <main>
     <div class="main">
 
-      <h1>SOME OF OUR BEST PRODUCTS</h1>
+      <h1>Our Best Sellers</h1>
       <hr>
       
-      <h2>PRODUCTS</h2>
-      <p>Resize the browser window to see the responsive effect.</p>
+      <h2>Some of our favorites</h2>
+
+      <button class="button">SHOP OUR PRODUCTS</button>
       
      
       <div class="row">
         <div class="column">
           <div class="content">
-            <img src="mountains.jpg" alt="Mountains" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
+            <img src="images/necklace1.jpg" alt="Necklace" style="width:100%">
+            <h3>Vintage Necklace</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="lights.jpg" alt="Lights" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
+            <img src="images/earring1.jpg" alt="Earring" style="width:100%">
+            <h3>Coco Earrings</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="nature.jpg" alt="Nature" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
+            <img src="images/ring1.jpg" alt="Ring" style="width:100%">
+            <h3>Leiah Ring</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="mountains.jpg" alt="Mountains" style="width:100%">
-            <h3>My Work</h3>
-            <p>Lorem ipsum..</p>
+            <img src="images/bracelet1.jpg" alt="Bracelet" style="width:100%">
+            <h3>Tribales Bracelet</h3>
           </div>
         </div>
       </div>
+
+
       
-      <div class="content">
+   <!--    <div class="content">
         <img src="bear.jpg" alt="Bear" style="width:100%">
         <h3>Some Other Work</h3>
         <p>Lorem ipsum..</p>
       </div>
-      
+       -->
     
     </div>
   

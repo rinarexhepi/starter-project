@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<head>
+  <title>Login/Contact</title>
+</head>
+<body>
+  
     <div class="navbar">
         <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
         <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
         <a href="file:///file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
       </div>
     
-  <link href="Login.css" rel="stylesheet" type="text/css">
+  <link href="css/Login.css" rel="stylesheet" type="text/css">
   <ul class="nav">
     <li onclick="showLogin()">Login</li>
     <li onclick="showSignup()">Sign up</li>
@@ -121,7 +125,7 @@
       </div>
     </div>
   </div>
-
+</body>
 </html>
 
 <script>

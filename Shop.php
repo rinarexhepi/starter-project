@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link href="index.css" rel="stylesheet" type="text/css">
+  <link href="css/Shop.css" rel="stylesheet" type="text/css">
 <head>
 <title>Our products</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 
 
 </head>
@@ -19,106 +18,147 @@
         <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
   </div>
 
-  <div class="hero-image">
+  <!-- <div class="hero-image">
     <div class="hero-text">
       <img src="images/FOTO1.png" alt="">
       
     </div>
-  </div>
+  </div> -->
 </body>
 <main>
 
-  
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="Shop.css" rel="stylesheet" type="text/css">
-
-</head>
 <body>
-
-
 <div class="main">
 
-<h1>MYLOGO.COM</h1>
+<h1>The Lucky Shop</h1>
 <hr>
 
-<h2>PORTFOLIO</h2>
+<h2>TIME TO SHINE</h2>
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('nature')"> Nature</button>
-  <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-  <button class="btn" onclick="filterSelection('people')"> People</button>
+  <button class="btn" onclick="filterSelection('earring')"> Earrings</button>
+  <button class="btn" onclick="filterSelection('necklace')"> Necklaces</button>
+  <button class="btn" onclick="filterSelection('bracelet')"> Bracelets</button>
+  <button class="btn" onclick="filterSelection('ring')"> Rings</button>
 </div>
 
 
 <div class="row">
-  <div class="column nature">
+  <div class="column earring">
     <div class="content">
-      <img src="images/mountains.jpg" alt="Mountains" style="width:100%">
-      <h4>Mountains</h4>
-      <p>Lorem ipsum dolor..</p>
+      <img src="images/earring1.jpg" alt="Mountains" style="width:100%">
+      <h4>Coco Earrings</h4>
+      <p>$45.99</p>
     </div>
   </div>
-  <div class="column nature">
+  <div class="column earring">
     <div class="content">
-    <img src="images/lights.jpg" alt="Lights" style="width:100%">
-      <h4>Product1</h4>
-      <p>Color Pricep>
+    <img src="images/earring2.jpg" alt="Lights" style="width:100%">
+      <h4>Riviera Earrings</h4>
+      <p>$52.99</p>
     </div>
   </div>
-  <div class="column nature">
+  <div class="column earring">
     <div class="content">
-    <img src="images/nature.jpg" alt="Nature" style="width:100%">
-      <h4>product2</h4>
-      <p>price color</p>
+    <img src="images/earring3.jpg" alt="Nature" style="width:100%">
+      <h4>Martini Earrings</h4>
+      <p>$60.90</p>
     </div>
   </div>
   
-  <div class="column cars">
+  <div class="column earring">
     <div class="content">
-      <img src="images/cars1.jpg" alt="Car" style="width:100%">
-      <h4>product3</h4>
-      <p>color price.</p>
+      <img src="images/earring4.jpg" alt="Car" style="width:100%">
+      <h4>Vnox Earrings</h4>
+      <p>$35.89</p>
     </div>
   </div>
-  <div class="column cars">
+  <div class="column necklace">
     <div class="content">
-    <img src="images/cars2.jpg" alt="Car" style="width:100%">
-      <h4>Fast</h4>
-      <p>Lorem ipsum dolor..</p>
+    <img src="images/necklace1.jpg" alt="Car" style="width:100%">
+      <h4>Vintage Necklace</h4>
+      <p>$56.99</p>
     </div>
   </div>
-  <div class="column cars">
+  <div class="column necklace">
     <div class="content">
-    <img src="images/cars3.jpg" alt="Car" style="width:100%">
-      <h4>Classic</h4>
-      <p>Lorem ipsum dolor..</p>
-    </div>
-  </div>
-
-  <div class="column people">
-    <div class="content">
-      <img src="images/people1.jpg" alt="Car" style="width:100%">
-      <h4>Girl</h4>
-      <p>Lorem ipsum dolor..</p>
-    </div>
-  </div>
-  <div class="column people">
-    <div class="content">
-    <img src="images/people2.jpg" alt="Car" style="width:100%">
-      <h4>Man</h4>
-      <p>Lorem ipsum dolor..</p>
-    </div>
-  </div>
-  <div class="column people">
-    <div class="content">
-    <img src="images/people3.jpg" alt="Car" style="width:100%">
-      <h4>Woman</h4>
-      <p>Lorem ipsum dolor..</p>
+    <img src="images/necklace2.jpg" alt="Car" style="width:100%">
+      <h4>Priyaasi Necklace</h4>
+      <p>$39.99</p>
     </div>
   </div>
 
+  <div class="column necklace">
+    <div class="content">
+      <img src="images/necklace3.jpg" alt="Car" style="width:100%">
+      <h4>Antique Necklace</h4>
+      <p>$71.90</p>
+    </div>
+  </div>
+  <div class="column necklace">
+    <div class="content">
+    <img src="images/necklace4.jpg" alt="Car" style="width:100%">
+      <h4>Aaliyah Necklace</h4>
+      <p>$51.90</p>
+    </div>
+  </div>
+  <div class="column bracelet">
+    <div class="content">
+    <img src="images/bracelet1.jpg" alt="Car" style="width:100%">
+      <h4>Tribales Bracelet</h4>
+      <p>$65.70</p>
+    </div>
+  </div>
+  <div class="column ring">
+    <div class="content">
+    <img src="images/ring1.jpg" alt="Car" style="width:100%">
+      <h4>Leiah Ring</h4>
+      <p>$67.99</p>
+    </div>
+  </div>
+  <div class="column ring">
+    <div class="content">
+    <img src="images/ring2.jpg" alt="Car" style="width:100%">
+      <h4>Linia Ring</h4>
+      <p>$78.99</p>
+    </div>
+  </div>
+  <div class="column bracelet">
+    <div class="content">
+    <img src="images/bracelet2.jpg" alt="Car" style="width:100%">
+      <h4>Glenan Bracelet</h4>
+      <p>$45.90</p>
+    </div>
+  </div>
+  <div class="column bracelet">
+    <div class="content">
+    <img src="images/bracelet3.jpg" alt="Car" style="width:100%">
+      <h4>Tennis Deluxe Bracelet</h4>
+      <p>$53.90</p>
+    </div>
+  </div>
+  <div class="column ring">
+    <div class="content">
+    <img src="images/ring4.jpg" alt="Car" style="width:100%">
+      <h4>Osborne Reef Ring</h4>
+      <p>$55.60</p>
+    </div>
+  </div>
+  <div class="column ring">
+    <div class="content">
+    <img src="images/ring3.jpg" alt="Car" style="width:100%">
+      <h4>Bloom Ring</h4>
+      <p>$57.80</p>
+    </div>
+  </div>
+  <div class="column bracelet">
+    <div class="content">
+    <img src="images/bracelet4.jpg" alt="Car" style="width:100%">
+      <h4>Yveline Bracelet</h4>
+      <p>$32.80</p>
+    </div>
+  </div>
 </div>
 
 
