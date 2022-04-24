@@ -1,0 +1,10 @@
+body{
+    height: 100%;
+    background-color: #f7d9cf;
+}
+
+.form{
+    display: flex;
+    text-align: center;
+    
+}

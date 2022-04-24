@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link href="css/Shop.css" rel="stylesheet" type="text/css">
+  <link href="../css/Shop.css" rel="stylesheet" type="text/css">
 <head>
 <title>Our products</title>
 <meta charset="UTF-8">
@@ -13,9 +13,9 @@
   <link rel="stylesheet" href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti">
   
   <div class="navbar">
-    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
-        <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
-        <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
+    <a href="index.php">Home</a>
+    <a href="AboutUs.php">Contact</a>
+    <a href="Shop.php">Shop</a>     
   </div>
 
   <!-- <div class="hero-image">
@@ -47,21 +47,21 @@
 <div class="row">
   <div class="column earring">
     <div class="content">
-      <img src="images/earring1.jpg" alt="Mountains" style="width:100%">
+      <img src="../images/earring1.jpg" alt="Mountains" style="width:100%">
       <h4>Coco Earrings</h4>
       <p>$45.99</p>
     </div>
   </div>
   <div class="column earring">
     <div class="content">
-    <img src="images/earring2.jpg" alt="Lights" style="width:100%">
+    <img src="../images/earring2.jpg" alt="Lights" style="width:100%">
       <h4>Riviera Earrings</h4>
       <p>$52.99</p>
     </div>
   </div>
   <div class="column earring">
     <div class="content">
-    <img src="images/earring3.jpg" alt="Nature" style="width:100%">
+    <img src="../images/earring3.jpg" alt="Nature" style="width:100%">
       <h4>Martini Earrings</h4>
       <p>$60.90</p>
     </div>
@@ -69,21 +69,21 @@
   
   <div class="column earring">
     <div class="content">
-      <img src="images/earring4.jpg" alt="Car" style="width:100%">
+      <img src="../images/earring4.jpg" alt="Car" style="width:100%">
       <h4>Vnox Earrings</h4>
       <p>$35.89</p>
     </div>
   </div>
   <div class="column necklace">
     <div class="content">
-    <img src="images/necklace1.jpg" alt="Car" style="width:100%">
+    <img src="../images/necklace1.jpg" alt="Car" style="width:100%">
       <h4>Vintage Necklace</h4>
       <p>$56.99</p>
     </div>
   </div>
   <div class="column necklace">
     <div class="content">
-    <img src="images/necklace2.jpg" alt="Car" style="width:100%">
+    <img src="../images/necklace2.jpg" alt="Car" style="width:100%">
       <h4>Priyaasi Necklace</h4>
       <p>$39.99</p>
     </div>
@@ -91,70 +91,70 @@
 
   <div class="column necklace">
     <div class="content">
-      <img src="images/necklace3.jpg" alt="Car" style="width:100%">
+      <img src="../images/necklace3.jpg" alt="Car" style="width:100%">
       <h4>Antique Necklace</h4>
       <p>$71.90</p>
     </div>
   </div>
   <div class="column necklace">
     <div class="content">
-    <img src="images/necklace4.jpg" alt="Car" style="width:100%">
+    <img src="../images/necklace4.jpg" alt="Car" style="width:100%">
       <h4>Aaliyah Necklace</h4>
       <p>$51.90</p>
     </div>
   </div>
   <div class="column bracelet">
     <div class="content">
-    <img src="images/bracelet1.jpg" alt="Car" style="width:100%">
+    <img src="../images/bracelet1.jpg" alt="Car" style="width:100%">
       <h4>Tribales Bracelet</h4>
       <p>$65.70</p>
     </div>
   </div>
   <div class="column ring">
     <div class="content">
-    <img src="images/ring1.jpg" alt="Car" style="width:100%">
+    <img src="../images/ring1.jpg" alt="Car" style="width:100%">
       <h4>Leiah Ring</h4>
       <p>$67.99</p>
     </div>
   </div>
   <div class="column ring">
     <div class="content">
-    <img src="images/ring2.jpg" alt="Car" style="width:100%">
+    <img src="../images/ring2.jpg" alt="Car" style="width:100%">
       <h4>Linia Ring</h4>
       <p>$78.99</p>
     </div>
   </div>
   <div class="column bracelet">
     <div class="content">
-    <img src="images/bracelet2.jpg" alt="Car" style="width:100%">
+    <img src="../images/bracelet2.jpg" alt="Car" style="width:100%">
       <h4>Glenan Bracelet</h4>
       <p>$45.90</p>
     </div>
   </div>
   <div class="column bracelet">
     <div class="content">
-    <img src="images/bracelet3.jpg" alt="Car" style="width:100%">
+    <img src="../images/bracelet3.jpg" alt="Car" style="width:100%">
       <h4>Tennis Deluxe Bracelet</h4>
       <p>$53.90</p>
     </div>
   </div>
   <div class="column ring">
     <div class="content">
-    <img src="images/ring4.jpg" alt="Car" style="width:100%">
+    <img src="../images/ring4.jpg" alt="Car" style="width:100%">
       <h4>Osborne Reef Ring</h4>
       <p>$55.60</p>
     </div>
   </div>
   <div class="column ring">
     <div class="content">
-    <img src="images/ring3.jpg" alt="Car" style="width:100%">
+    <img src="../images/ring3.jpg" alt="Car" style="width:100%">
       <h4>Bloom Ring</h4>
       <p>$57.80</p>
     </div>
   </div>
   <div class="column bracelet">
     <div class="content">
-    <img src="images/bracelet4.jpg" alt="Car" style="width:100%">
+    <img src="../images/bracelet4.jpg" alt="Car" style="width:100%">
       <h4>Yveline Bracelet</h4>
       <p>$32.80</p>
     </div>

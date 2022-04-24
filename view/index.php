@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link href="css/index.css" rel="stylesheet" type="text/css">
+  <link href="../css/index.css" rel="stylesheet" type="text/css">
 <head>
 <title>The Lucky Shop</title>
 <meta charset="UTF-8">
@@ -12,15 +12,15 @@
   <link rel="stylesheet" href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti">
   
   <div class="navbar">
-    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\index.html#">Home</a>
-    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Contact.html">Contact</a>
-    <a href="file:///C:\xampp\htdocs\RinaRexhepi-Projekti\Shop.html">Shop</a>
+    <a href="index.php">Home</a>
+    <a href="AboutUs.php">Contact</a>
+    <a href="Shop.php">Shop</a>
   </div>
  <div class="top">
   <div class="image">
     <h1>The Lucky Shop</h1>
     <h2>Welcome</h2>
-      <img class="main-image" src="images/main.jpg" alt="main-image">
+      <img class="main-image" src="../images/main.jpg" alt="main-image">
   </div>
 </div>
 
@@ -32,31 +32,31 @@
       
       <h2>Some of our favorites</h2>
 
-      <button class="button">SHOP OUR PRODUCTS</button>
+      <button class="button" ><a href="Shop.php">SHOP OUR PRODUCTS</a></button>
       
      
       <div class="row">
         <div class="column">
           <div class="content">
-            <img src="images/necklace1.jpg" alt="Necklace" style="width:100%">
+            <img src="../images/necklace1.jpg" alt="Necklace" style="width:100%">
             <h3>Vintage Necklace</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="images/earring1.jpg" alt="Earring" style="width:100%">
+            <img src="../images/earring1.jpg" alt="Earring" style="width:100%">
             <h3>Coco Earrings</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="images/ring1.jpg" alt="Ring" style="width:100%">
+            <img src="../images/ring1.jpg" alt="Ring" style="width:100%">
             <h3>Leiah Ring</h3>
           </div>
         </div>
         <div class="column">
           <div class="content">
-            <img src="images/bracelet1.jpg" alt="Bracelet" style="width:100%">
+            <img src="../images/bracelet1.jpg" alt="Bracelet" style="width:100%">
             <h3>Tribales Bracelet</h3>
           </div>
         </div>
